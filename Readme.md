@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Vladyslav Donchenko](https://up.htmlacademy.ru/react/3/user/608811).
-* Наставник: `Неизвестно`.
+* Наставник: [Степан Нарышков](https://htmlacademy.ru/profile/id95962).
 
 ---
 
