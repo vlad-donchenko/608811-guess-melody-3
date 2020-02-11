@@ -1,10 +1,10 @@
 import React from "react";
 import renderer from "react-test-renderer";
-import App from "./welcome-screen";
+import WelcomeScreen from "./welcome-screen";
 
-it(`Render App`, () => {
+it(`Render  WelcomeScreen`, () => {
   const tree = renderer
-    .create(<App
+    .create(<WelcomeScreen
       errorsCount={3}
       onWelcomeButtonClick={() => {}}
     />)
