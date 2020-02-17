@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import {GameType} from "../../const.js";
 
 class GenreQuestionScreen extends PureComponent {
-  constructor() {
+  constructor(props) {
     super(props);
     this.state = {
       answers: [false, false, false, false],
